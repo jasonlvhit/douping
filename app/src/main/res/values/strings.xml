@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">豆评</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">加载中</string>
+    <string name="title_activity_collection">我的收藏</string>
+    <string name="app_description">豆瓣精彩书评、影评、乐评</string>
+    <string name="login_button">用豆瓣账号登录</string>
+
+    <string name="music">音乐</string>
+    <string name="movie">电影</string>
+    <string name="book">读书</string>
+    <string name="review_title">豆评正文</string>
+
+</resources>
